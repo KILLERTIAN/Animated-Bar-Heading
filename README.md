@@ -2,6 +2,14 @@
 
 This component is made with the help of a tutorial from uiverse.io
 
+# Component Link
+https://killertian.github.io/Animated-Bar-Heading/
+
+# Preview
+![image](https://user-images.githubusercontent.com/77867638/194770351-88caa513-fe2e-42db-af67-e342a1271638.png)
+
+![image](https://user-images.githubusercontent.com/77867638/194770392-bf6fc9de-9bcc-48a6-ac00-39e88f210ea1.png)
+
 # License
 
 MIT License
